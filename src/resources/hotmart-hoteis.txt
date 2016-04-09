@@ -1,0 +1,3 @@
+Hotel:The Carlyle, Estrelas:3, diariaSemana:110, diariaFimSemana:90, diariaSemanaVip:80, diariaFimSemanaVip:80
+Hotel:The Plaza, Estrelas:4, diariaSemana:160, diariaFimSemana:60, diariaSemanaVip:110, diariaFimSemanaVip:50
+Hotel:Royal Hotel, Estrelas:5, diariaSemana:220, diariaFimSemana:150, diariaSemanaVip:100, diariaFimSemanaVip:40
